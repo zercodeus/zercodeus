@@ -19,7 +19,7 @@
 ---
 
 ```bash
-root@github:~$ cat ZercoDeus/about.txt
+About ZercoDeus
 ```
 
 ```
@@ -34,7 +34,7 @@ root@github:~$ cat ZercoDeus/about.txt
 ---
 
 ```bash
-root@github:~$ ls -la ./stack/
+Cooking on
 ```
 
 **Frontend**
@@ -63,7 +63,7 @@ root@github:~$ ls -la ./stack/
 ---
 
 ```bash
-root@github:~$ git log --stat ZercoDeus
+Activity
 ```
 
 <div align="center">
@@ -82,15 +82,14 @@ root@github:~$ git log --stat ZercoDeus
 ---
 
 ```bash
-root@github:~$ ./connect.sh
+Socials
 ```
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZercoDeus)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/TWITTER-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/TWITTER-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ZercoCrypto)
 
 </div>
 
