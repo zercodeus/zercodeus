@@ -65,10 +65,15 @@ Cooking on
 ```bash
 Activity
 ```
-
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZercoDeus&theme=dark&background=000000&border=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=AAAAAA)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+<div align="center">
 
 ---
 
