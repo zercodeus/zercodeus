@@ -66,15 +66,6 @@ Cooking on
 Activity
 ```
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZercoDeus&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZercoDeus&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZercoDeus&theme=dark&background=000000&border=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=AAAAAA)](https://git.io/streak-stats)
 
 </div>
